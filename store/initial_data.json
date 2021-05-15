@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "_id": 1,
+      "name": "Mỹ Tâm",
+      "title": "Datto's voice",
+      "content": "On some browsers, scrolling the mousewheel while a numeric-like input is focused will increment or decrement the input's value. To disable this browser feature, just set the no-wheel prop to true.",
+      "email": "mytam.singer@gmail.com"
+    },
+    {
+      "_id": 2,
+      "name": "Binz",
+      "title": "Datto's OutLooks",
+      "content": "On some browsers, scrolling the mousewheel while a numeric-like input is focused will increment or decrement the input's value. To disable this browser feature, just set the no-wheel prop to true.",
+      "email": "binz.singer@gmail.com"
+    },
+    {
+      "_id": 3,
+      "name": "Hà Anh Tuấn",
+      "title": "Datto's Jobs",
+      "content": "On some browsers, scrolling the mousewheel while a numeric-like input is focused will increment or decrement the input's value. To disable this browser feature, just set the no-wheel prop to true.",
+      "email": "tuananhha.singer@gmail.com"
+    }
+  ],
+  "myposts": [
+    {
+      "_id": 0,
+      "title": "Datto's voice 1",
+      "content": "On some browsers, scrolling the mousewheel while a numeric-like input is focused will increment or decrement the input's value. To disable this browser feature, just set the no-wheel prop to true."
+    },
+    {
+      "_id": 1,
+      "title": "Datto's voice 2",
+      "content": "On some browsers, scrolling the mousewheel while a numeric-like input is focused will increment or decrement the input's value. To disable this browser feature, just set the no-wheel prop to true."
+    },
+    {
+      "title": "sgsfh",
+      "content": "GHdhj",
+      "_id": "0.5119832753441798"
+    }
+  ]
+}
