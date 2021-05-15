@@ -14,7 +14,7 @@
                     <button type="button" class="btn btn-primary"
                     @click="editMyPosts(title,content,id)">Edit</button>
                     <button type="button" class="btn btn-primary"
-                    @click="deleteMyPosts(id)">Delete</button>
+                    @click="deleteMyPosts(id)">Delete my posts</button>
                 </div>
                 </b-card-body>
             </b-col>
